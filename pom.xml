@@ -62,9 +62,9 @@
                 <version>0.9.2</version>
             </dependency>
             <dependency>
-                <groupId>gnu.io</groupId>
-                <artifactId>RXTX</artifactId>
-                <version>2.2pre2h</version>
+              <groupId>com.neuronrobotics</groupId>
+              <artifactId>nrjavaserial</artifactId>
+              <version>3.12.1</version>
             </dependency>
 
             <dependency>
@@ -122,7 +122,6 @@
         <module>Jirc</module>
         <module>HarcHardware</module>
         <module>Crystal-Clear-Icons</module>
-        <module>rxtx-2.2pre2h</module>
         <!--module>package</module-->
     </modules>
 
