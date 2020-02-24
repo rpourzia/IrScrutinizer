@@ -15,3 +15,10 @@ OpenJDK*.zip
 gh-pages
 repo
 jre-x64-macOS.tar.gz
+/DevSlashLirc/*
+/Girr/*
+/HarcHardware/*
+/IrpTransmogrifier/*
+/Jirc/*
+/RXRX/*
+/tonto/*
